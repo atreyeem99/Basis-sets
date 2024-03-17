@@ -9,4 +9,4 @@ def2, cc-pVDZ, pVTZ
 ```
 avtz
 # basis set can 
-# effect of basis set change affect differently
+# effect of basis set in dft
