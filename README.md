@@ -10,3 +10,4 @@ def2, cc-pVDZ, pVTZ
 avtz
 # basis set can 
 # effect of basis set in dft
+# ADC2 taking longer time with TZVP basis set
